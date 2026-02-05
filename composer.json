@@ -2,7 +2,7 @@
     "name": "esteb/mock",
     "autoload": {
         "psr-4": {
-            "Esteb\\Mock\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
